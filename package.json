@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "babel": "^6.23.0",
-    "lodash": "^4.17.4"
-  }
-}
